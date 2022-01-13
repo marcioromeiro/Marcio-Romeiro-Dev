@@ -20,6 +20,7 @@
 
 #### Aula 4 ! - Tomada de **decisões** e **expressões** .
 
+> **Expressões Aritméticas**
 > - " São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis" 
 > - ***Operadores aritméticos;***
 > - **(+)** (Soma)
@@ -28,3 +29,31 @@
 > - **(/)** (Divisão)
 > - **(^)** (Potenciação)
 > - **(%)** (Porcentagem)
+
+> - **Expressões Literais**
+> - São expressões com constantes e/ou variáveis que tem como resultado Valores literais.
+
+> - **Operadores relacionais**
+> - "São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais."
+
+> - As expressões relacionais retornam valores lógicos *(Verdadeiro/Falso)*
+
+> ***Símbolos:***
+>  - (**>**) Maior que
+>  - (**>=**) Maior ou igual que
+>  - (**<**) Menor que
+>  - (**<=**) Menor ou igual que
+>  - (**==**) Igualdade
+>  - (**!=**) Diferente de
+
+> - **Tomada de decisão**
+
+> - "Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução!
+
+> - ***Concatenação***
+
+> Agrupamento de duas ou mais céculas que, incluindo fórmulas, textos ou outras informações contida no seu interior, dá origem a um __único resultado__  
+
+
+
+
