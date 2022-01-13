@@ -56,10 +56,9 @@
 
 ***FALTA ATUALIZAR FINAL DA AULA***
 
-> - ___Certificado___
+> - ___Certificado___ [trofeu](C:\Users\W10\Desktop\trofeu.jpg)
 
-
-
+![image-20220113161300039](C:\Users\W10\AppData\Roaming\Typora\typora-user-images\image-20220113161300039.png)
 
 
 
