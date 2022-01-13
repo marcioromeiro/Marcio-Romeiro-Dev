@@ -54,6 +54,12 @@
 
 > Agrupamento de duas ou mais céculas que, incluindo fórmulas, textos ou outras informações contida no seu interior, dá origem a um __único resultado__  
 
+***FALTA ATUALIZAR FINAL DA AULA***
+
+> - ___Certificado___
+
+
+
 
 
 
